@@ -18,6 +18,12 @@
 
 ## Experience
 
+> BELONG
+
+- Computer Science, Sookmyung Women's University `2023.03 ~`
+- Sookmyung Apps 10.5th member `2023.09 ~ 2024.02`
+- The 11th backend leader of Sookmyung Apps `2024.02 ~ `
+
 > CONTEST
 - Participated in Woongjin Sync Big Game Development Contest `2023.06.01 ~ 2023.09.03`
 - Participated in SWING 2023 Education & Hackerton with London `2023.07.10 ~ 2023.07.14`
