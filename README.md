@@ -42,7 +42,7 @@
   <div align="center"> 
     <p float="left">
       
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajung7038)](https://github.com/ajung7038/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajung7038)
 ![Ajeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajung7038&show_icons=true&theme=transparent)
 
 </p>
