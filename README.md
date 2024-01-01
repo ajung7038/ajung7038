@@ -42,12 +42,6 @@
 </p>
 </div>
 
-<div align="center"> 
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ajeong7038)](https://github.com/ajung7038/velog-readme-stats)
-[![Tistory's GitHub stats](https://tistory-readme-stats.vercel.app/api?name=ajeong7038)](https://github.com/ajung7038/velog-readme-stats)
-
-</div>
 
 
 
