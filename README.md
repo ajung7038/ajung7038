@@ -18,9 +18,10 @@
 
 ## Experience
 
-> BELONG
-
+> MAJOR
 - Computer Science, Sookmyung Women's University `2023.03 ~`
+
+> AFFILIATION
 - Sookmyung Apps 10.5th member `2023.09 ~ 2024.02`
 - The 11th backend leader of Sookmyung Apps `2024.02 ~ `
 
@@ -31,7 +32,7 @@
 - Participated in Kookmin University X Sookmyung University Combined Hackathon (COKOTHON) `2023.12.26 ~ 2023.12.27`
 
 > AWARD
-- Woongjin Sync Big Game Development Contest `2023.06.01 ~ 2023.09.03` `(excellence award)`
+- Woongjin ThinkBig Game Development Contest `2023.06.01 ~ 2023.09.03` `(excellence award)`
 
 <br />
  
