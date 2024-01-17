@@ -26,7 +26,7 @@
 - The 11th backend leader of Sookmyung Apps `2024.02 ~ `
 
 > CONTEST
-- Participated in Woongjin Sync Big Game Development Contest `2023.06.01 ~ 2023.09.03`
+- Participated in Woongjin ThinkBig Game Development Contest `2023.06.01 ~ 2023.09.03`
 - Participated in SWING 2023 Education & Hackerton with London `2023.07.10 ~ 2023.07.14`
 - Participated in The 2nd Big Data Hackathon (Shinhan Big Data Hackathon) `2023.10.04 ~ 2023.10.08`
 - Participated in Kookmin University X Sookmyung University Combined Hackathon (COKOTHON) `2023.12.26 ~ 2023.12.27`
