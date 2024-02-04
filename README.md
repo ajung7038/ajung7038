@@ -39,32 +39,32 @@
 ## Project
 <table align = "center">
   <tr align = "center">
-    <td><b>Project</td>
     <td><b>Date</b></td>
+    <td><b>Project</td>
     <td><b>Stack</td>
   </tr>
       
   <tr align = "center">
-    <td>SNG 요소를 가미한 수학 교육 게임, 구해줘 씽크 아일랜드</td>
     <td>2023.06.01~2023.09.03</td>
+    <td>SNG 요소를 가미한 수학 교육 게임, 구해줘 씽크 아일랜드</td>
     <td>C#, Unity, AWS</td>
   </tr>
 
   <tr align = "center">
-    <td>학교 근처 메뉴 추천 서비스, 오늘의 메뉴</td>
     <td>2023.07.19~2023.08.19</td>
+    <td>학교 근처 메뉴 추천 서비스, 오늘의 메뉴</td>
     <td>React, Figma, node.js, MySQL, AWS</td>
   </tr>
 
   <tr align = "center">
-    <td>나만의 코딩 기록 서비스, Colog</td>
     <td>2023.11.16 ~</td>
+    <td>나만의 코딩 기록 서비스, Colog</td>
     <td>React, Figma, Spring, MySQL, AWS </td>
   </tr>
 
   <tr align = "center">
-    <td>게시판 프로젝트, Pro</td>
     <td>2024.1.11 ~</td>
+    <td>게시판 프로젝트, Pro</td>
     <td>React, Spring, MySQL, AWS</td>
   </tr>
   
