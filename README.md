@@ -59,7 +59,7 @@
   <tr align = "center">
     <td>2023.11.16 ~</td>
     <td>나만의 코딩 기록 서비스, Colog</td>
-    <td>React, Figma, Spring, MySQL, AWS </td>
+    <td>React, Figma, Firestore, Vercel </td>
   </tr>
 
   <tr align = "center">
