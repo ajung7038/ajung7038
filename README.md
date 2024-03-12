@@ -33,8 +33,8 @@
 - Participated in Sookmyung Women's University X Yonsei University ABC LIVING LAB Hackathon `2024.03.09 ~ 2024.03.10`
 
 > AWARD
-- Woongjin ThinkBig Game Development Contest `2023.06.01 ~ 2023.09.03` `(excellence Award)`
-- Sookmyung Women's University X Yonsei University ABC LIVING LAB Hackathon `2024.03.09 ~ 2024.03.10` `(Grand Prize)`
+- Woongjin ThinkBig Game Development Contest `2023.06.01 ~ 2023.09.03` `(Excellence Award)`
+- Sookmyung Women's University X Yonsei University ABC LIVING LAB Hackathon `2024.03.09 ~ 2024.03.10` `(First Prize)`
 
 <br />
 
