@@ -27,7 +27,7 @@
 
 > CONTEST (2023)
 - Participated in Woongjin ThinkBig Game Development Contest `2023.06.01 ~ 2023.09.03`
-- Participated in SWING 2023 Education & Hackerton with London `2023.07.10 ~ 2023.07.14`
+- Participated in SWING 2023 Education & Hackathon with London `2023.07.10 ~ 2023.07.14`
 - Participated in The 2nd Big Data Hackathon (Shinhan Big Data Hackathon) `2023.10.04 ~ 2023.10.08`
 - Participated in Kookmin University X Sookmyung University Combined Hackathon (COKOTHON) `2023.12.26 ~ 2023.12.27`
 - Participated in Sookmyung Women's University X Yonsei University ABC LIVING LAB Hackathon `2024.03.09 ~ 2024.03.10`
