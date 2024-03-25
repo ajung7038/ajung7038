@@ -25,7 +25,7 @@
 - Sookmyung Apps 10.5th member `2023.09 ~ 2024.02`
 - The 11th backend leader of Sookmyung Apps `2024.02 ~ `
 
-> CONTEST (2023)
+> CONTEST
 - Participated in Woongjin ThinkBig Game Development Contest `2023.06.01 ~ 2023.09.03`
 - Participated in SWING 2023 Education & Hackathon with London `2023.07.10 ~ 2023.07.14`
 - Participated in The 2nd Big Data Hackathon (Shinhan Big Data Hackathon) `2023.10.04 ~ 2023.10.08`
