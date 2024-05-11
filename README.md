@@ -32,6 +32,7 @@
 - Participated in Kookmin University X Sookmyung University Combined Hackathon (COKOTHON) `2023.12.26 ~ 2023.12.27`
 - Participated in Sookmyung Women's University X Yonsei University ABC LIVING LAB Hackathon `2024.03.09 ~ 2024.03.10`
 - Participated in GIST AI4GOOD Hackathon `2024.03.23 ~ 2024.03.24`
+- Participated in SMUPC 4th Sookmyung Women's University Programming Contest `2024.05.18`
 
 > AWARD
 - Woongjin ThinkBig Game Development Contest `2023.06.01 ~ 2023.09.03` `(Excellence Award)`
@@ -66,9 +67,21 @@
   </tr>
 
   <tr align = "center">
-    <td>2024.1.11 ~</td>
+    <td>2024.01.11 ~</td>
     <td>게시판 프로젝트, Pro</td>
     <td>React, Spring, MySQL, AWS</td>
+  </tr>
+
+  <tr align = "center">
+    <td>2024.03.16 ~</td>
+    <td>칭찬 스티커 프로젝트, OUTFOOT</td>
+    <td>Flutter, Spring, MySQL, AWS</td>
+  </tr>
+
+  <tr align = "center">
+    <td>2024.03.31 ~</td>
+    <td>온라인 명함 보관 서비스, WELLET</td>
+    <td>React, Spring, MySQL, AWS, Firebase </td>
   </tr>
   
 </table>
