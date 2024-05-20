@@ -32,11 +32,12 @@
 - Participated in Kookmin University X Sookmyung University Combined Hackathon (COKOTHON) `2023.12.26 ~ 2023.12.27`
 - Participated in Sookmyung Women's University X Yonsei University ABC LIVING LAB Hackathon `2024.03.09 ~ 2024.03.10`
 - Participated in GIST AI4GOOD Hackathon `2024.03.23 ~ 2024.03.24`
-- Participated in SMUPC 4th Sookmyung Women's University Programming Contest `2024.05.18`
+- Participated in SMUPC : 4th Sookmyung Women's University Programming Contest `2024.05.18`
 
 > AWARD
 - Woongjin ThinkBig Game Development Contest `2023.06.01 ~ 2023.09.03` `(Excellence Award)`
 - Sookmyung Women's University X Yonsei University ABC LIVING LAB Hackathon `2024.03.09 ~ 2024.03.10` `(First Prize)`
+- SMUPC : 4th Sookmyung Women's University Programming Contest `2024.05.18` `(Encouragement Award)`
 
 <br />
 
