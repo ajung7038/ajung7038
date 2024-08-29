@@ -32,6 +32,7 @@
 - Participated in Sookmyung Women's University X Yonsei University ABC LIVING LAB Hackathon `2024.03.09 ~ 2024.03.10`
 - Participated in GIST AI4GOOD Hackathon `2024.03.23 ~ 2024.03.24`
 - Participated in SMUPC : 4th Sookmyung Women's University Programming Contest `2024.05.18`
+- Participated in the 1st SWITCH (SW/AI Alliance Start-up Contest) `2024.06.19 ~ 2024.09.06`
 
 > AWARD
 - Woongjin ThinkBig Game Development Contest `2023.06.01 ~ 2023.09.03` `(Excellence Award)`
@@ -51,37 +52,42 @@
   <tr align = "center">
     <td>2023.06.01~2023.09.03</td>
     <td>SNG 요소를 가미한 수학 교육 게임, 구해줘 씽크 아일랜드</td>
-    <td>C#, Unity, AWS</td>
+    <td><strong>C#, Unity, AWS</strong></td>
   </tr>
 
   <tr align = "center">
     <td>2023.07.19~2023.08.19</td>
     <td>학교 근처 메뉴 추천 서비스, 오늘의 메뉴</td>
-    <td>React, Figma, node.js, MySQL, AWS</td>
+    <td>React, Figma, <strong>node.js, MySQL, AWS</strong></td>
   </tr>
 
   <tr align = "center">
     <td>2023.11.16 ~ 2024.03.04</td>
     <td>나만의 코딩 기록 서비스, Colog</td>
-    <td>React, Figma, Firestore, Vercel </td>
+    <td><strong>React, Figma, Firestore, Vercel</strong></td>
   </tr>
 
   <tr align = "center">
     <td>2024.01.11 ~</td>
     <td>게시판 프로젝트, Pro</td>
-    <td>React, Spring, MySQL, AWS</td>
+    <td><strong>React, Spring, MySQL, AWS</strong></td>
   </tr>
 
   <tr align = "center">
     <td>2024.03.16 ~</td>
     <td>칭찬 스티커 프로젝트, OUTFOOT</td>
-    <td>Flutter, Spring, MySQL, AWS</td>
+    <td>Flutter, <strong>Spring, MySQL, AWS</strong></td>
   </tr>
 
   <tr align = "center">
     <td>2024.03.31 ~</td>
     <td>온라인 명함 보관 서비스, WELLET</td>
-    <td>React, Spring, MySQL, AWS, Firebase </td>
+    <td>React, <strong>Spring, MySQL, AWS, Firebase</strong></td>
+  </tr>
+  <tr align = "center">
+    <td>2024.03.31 ~</td>
+    <td>반려식물 통합 진단 서비스, POZ</td>
+    <td><strong>React-Native, Firebase, AWS</strong></td>
   </tr>
   
 </table>
