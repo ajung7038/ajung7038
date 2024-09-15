@@ -38,7 +38,7 @@
 - Woongjin ThinkBig Game Development Contest `2023.06.01 ~ 2023.09.03` `(Excellence Award)`
 - Sookmyung Women's University X Yonsei University ABC LIVING LAB Hackathon `2024.03.09 ~ 2024.03.10` `(First Prize)`
 - SMUPC : 4th Sookmyung Women's University Programming Contest `2024.05.18` `(Encouragement Award)`
-- Participated in the 1st SWITCH (SW/AI Alliance Start-up Contest) `(Second Prize)`
+- Participated in the 1st SWITCH (SW/AI Alliance Start-up Contest) `2024.06.19 ~ 2024.09.06` `(Second Prize)`
 
 <br />
 
