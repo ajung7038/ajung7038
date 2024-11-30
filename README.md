@@ -33,12 +33,14 @@
 - Participated in GIST AI4GOOD Hackathon `2024.03.23 ~ 2024.03.24`
 - Participated in SMUPC : 4th Sookmyung Women's University Programming Contest `2024.05.18`
 - Participated in the 1st SWITCH (SW/AI Alliance Start-up Contest) `2024.06.19 ~ 2024.09.06`
+- Participated in 2024 SMU Jisanhak Expo Fly Start-up Demo Day Wins Contest `2024.04.01 ~ 2024.11.28`
 
 > AWARD
 - Woongjin ThinkBig Game Development Contest `2023.06.01 ~ 2023.09.03` `(Excellence Award)`
 - Sookmyung Women's University X Yonsei University ABC LIVING LAB Hackathon `2024.03.09 ~ 2024.03.10` `(First Prize)`
 - SMUPC : 4th Sookmyung Women's University Programming Contest `2024.05.18` `(Encouragement Award)`
 - Participated in the 1st SWITCH (SW/AI Alliance Start-up Contest) `2024.06.19 ~ 2024.09.06` `(Second Prize)`
+- Participated in 2024 SMU Jisanhak Expo Fly Start-up Demo Day Wins Contest `2024.04.01 ~ 2024.11.28` `(3rd Prize)`
 
 <br />
 
@@ -69,7 +71,7 @@
   </tr>
 
   <tr align = "center">
-    <td>2024.01.11 ~</td>
+    <td>2024.01.11 ~ 2024.11.01</td>
     <td>게시판 프로젝트, Pro</td>
     <td><strong>React, Spring, MySQL, AWS</strong></td>
   </tr>
