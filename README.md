@@ -88,7 +88,7 @@
     <td>React, <strong>Spring, MySQL, AWS, Firebase</strong></td>
   </tr>
   <tr align = "center">
-    <td>2024.03.31 ~</td>
+    <td>2024.03.31 ~ 2024.11.28</td>
     <td>반려식물 통합 진단 서비스, POZ</td>
     <td><strong>React-Native, Firebase, AWS</strong></td>
   </tr>
