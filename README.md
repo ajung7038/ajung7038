@@ -77,7 +77,7 @@
   </tr>
 
   <tr align = "center">
-    <td>2024.03.16 ~</td>
+    <td>2024.03.16 ~ 2025.03.06</td>
     <td>칭찬 스티커 프로젝트, OUTFOOT</td>
     <td>Flutter, <strong>Spring, MySQL, AWS</strong></td>
   </tr>
