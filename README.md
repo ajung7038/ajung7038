@@ -1,6 +1,6 @@
 ##  About Me
 
-- I'm lerning Spring.
+- I'm lerning Spring, System Programming.
 - I want to be a backend developer.
 
 
@@ -10,6 +10,7 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
   <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=Amazon aws&logoColor=white">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
 </p>
 
 
@@ -22,7 +23,8 @@
 
 > AFFILIATION
 - Sookmyung Apps 10.5th member `2023.09 ~ 2024.02`
-- The 11th backend leader of Sookmyung Apps `2024.02 ~ `
+- The 11th backend leader of Sookmyung Apps `2024.02 ~ 2024.12`
+- Smart System Software Lab - Artificial Intelligence Engineering of Sookmyung Women's University `2024.12 ~`
 
 > CONTEST
 - Participated in Woongjin ThinkBig Game Development Contest `2023.06.01 ~ 2023.09.03`
