@@ -85,14 +85,19 @@
   </tr>
 
   <tr align = "center">
-    <td>2024.03.31 ~</td>
+    <td>2024.03.31 ~ 2025.03.06</td>
     <td>온라인 명함 보관 서비스, WELLET</td>
     <td>React, <strong>Spring, MySQL, AWS, Firebase</strong></td>
   </tr>
   <tr align = "center">
-    <td>2024.03.31 ~ 2024.11.28</td>
+    <td>2024.03.31 ~ </td>
     <td>반려식물 통합 진단 서비스, POZ</td>
-    <td><strong>React-Native, Firebase, AWS</strong></td>
+    <td><strong>React-Native, Spring, MySQL, AWS</strong></td>
+  </tr>
+  <tr align = "center">
+    <td>2025.06.19 ~ </td>
+    <td>자동 채점 웹 플랫폼, snowCode</td>
+    <td>React, <strong>Spring, MySQL, AWS</strong></td>
   </tr>
   
 </table>
