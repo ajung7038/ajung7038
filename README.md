@@ -36,13 +36,15 @@
 - Participated in SMUPC : 4th Sookmyung Women's University Programming Contest `2024.05.18`
 - Participated in the 1st SWITCH (SW/AI Alliance Start-up Contest) `2024.06.19 ~ 2024.09.06`
 - Participated in 2024 SMU Jisanhak Expo Fly Start-up Demo Day Wins Contest `2024.04.01 ~ 2024.11.28`
+- Participated in 2025 WISET Outstanding Presentation Pape `2025.10.27`
 
 > AWARD
 - Woongjin ThinkBig Game Development Contest `2023.06.01 ~ 2023.09.03` `(Excellence Award)`
 - Sookmyung Women's University X Yonsei University ABC LIVING LAB Hackathon `2024.03.09 ~ 2024.03.10` `(First Prize)`
 - SMUPC : 4th Sookmyung Women's University Programming Contest `2024.05.18` `(Encouragement Award)`
-- Participated in the 1st SWITCH (SW/AI Alliance Start-up Contest) `2024.06.19 ~ 2024.09.06` `(Second Prize)`
-- Participated in 2024 SMU Jisanhak Expo Fly Start-up Demo Day Wins Contest `2024.04.01 ~ 2024.11.28` `(3rd Prize)`
+- The 1st SWITCH (SW/AI Alliance Start-up Contest) `2024.06.19 ~ 2024.09.06` `(Second Prize)`
+- 2024 SMU Jisanhak Expo Fly Start-up Demo Day Wins Contest `2024.04.01 ~ 2024.11.28` `(3rd Prize)`
+- WISET: Women's College Student Engineering Research Team Award for Outstanding Presentation Pape `2025.10.27` `(3rd Prize)`
 
 <br />
 
