@@ -47,6 +47,10 @@
 - WISET: Women's College Student Engineering Research Team Award for Outstanding Presentation Pape `2025.10.27` `(3rd Prize)`
 - The 5th X-Corps Plus Festival Award for Encouragement of the President of the Research Group on Practical Problems `2025.11.26` `(3rd Prize)`
 
+> PAPER
+- A Hybrid Recovery Algorithm for Deleted File Restoration: Analysis of the Limitations of Single-Method Approaches and Proposal of an Alternative `KCC 2025`
+- Implementation of an Ext4 File System’s Free Block Extraction Tool for Efficient File Recovery `KSC 2025`
+
 <br />
 
 ## Project
