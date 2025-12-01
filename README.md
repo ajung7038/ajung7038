@@ -36,6 +36,7 @@
 - Participated in the 1st SWITCH (SW/AI Alliance Start-up Contest) `2024.06.19 ~ 2024.09.06`
 - Participated in 2024 SMU Jisanhak Expo Fly Start-up Demo Day Wins Contest `2024.04.01 ~ 2024.11.28`
 - Participated in 2025 WISET Outstanding Presentation Pape `2025.10.27`
+- Participated in X-Corps plus Festival for Encouragement of the President of the Research Group `2025.11.26`
 
 > AWARD
 - Woongjin ThinkBig Game Development Contest `2023.06.01 ~ 2023.09.03` `(Excellence Award)`
@@ -44,6 +45,7 @@
 - The 1st SWITCH (SW/AI Alliance Start-up Contest) `2024.06.19 ~ 2024.09.06` `(Second Prize)`
 - 2024 SMU Jisanhak Expo Fly Start-up Demo Day Wins Contest `2024.04.01 ~ 2024.11.28` `(3rd Prize)`
 - WISET: Women's College Student Engineering Research Team Award for Outstanding Presentation Pape `2025.10.27` `(3rd Prize)`
+- The 5th X-Corps Plus Festival Award for Encouragement of the President of the Research Group on Practical Problems `2025.11.26` `(3rd Prize)`
 
 <br />
 
